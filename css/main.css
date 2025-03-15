@@ -281,7 +281,7 @@ a {
   }
   .navigation__link:hover,
   .navigation__link:focus {
-    color: #ffffff;
+    font-size: 26px;
   }
   .header__icon-home-img {
     display: none;
